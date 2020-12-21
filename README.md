@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-akshaypjoshi[https://akshaypjoshi.github.io]
+- akshaypjoshi[https://akshaypjoshi.github.io]
 
 -->
