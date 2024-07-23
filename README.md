@@ -2,14 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshaypjoshi&color=green)
 
-I am a passionate Full Stack Developer with a knack for crafting efficient and scalable applications. My journey in the tech world has equipped me with a diverse skill set that spans across multiple frameworks and languages.
+I'm a Full Stack Developer who loves building web applications. I have experience with various programming languages and frameworks, and I'm always eager to learn more and take on new challenges.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on innovative web solutions
-- 🌱 I’m constantly learning and exploring new technologies
-- 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I love to solve puzzles and play cricket
+- 🔭 Working on innovative web solutions
+- 🌱 Learning and exploring new technologies
+- 👯 Looking to collaborate on projects
+- ⚡ Fun fact: love to solve puzzles and play cricket
 
 ## 🛠️ My Tech Stack
 
@@ -23,6 +23,7 @@ I am a passionate Full Stack Developer with a knack for crafting efficient and s
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
