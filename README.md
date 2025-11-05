@@ -58,21 +58,48 @@ From **Laravel backends** and **AI workflows** to **Dockerized Kubernetes cluste
 
 ## 🧰 Tech Stack
 
-**Languages & Frameworks:**  
-`PHP` · `Laravel` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Python` · `FastAPI`
 
-**Databases:**  
-`MySQL` · `MongoDB` · `Redis`
+### 🖥️ Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**DevOps & Infra:**  
-`Docker` · `Nginx` · `Kubernetes` · `Bitbucket CI/CD` · `Let's Encrypt`
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-**AI & ML:**  
-`Transformers` · `PyTorch` · `SentencePiece` · `LangChain`
+### ⚙️ DevOps & Infra
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-**UI & Tools:**  
-`TailwindCSS` · `ShadCN` ·  `WebSockets`
+### 🤖 AI / ML & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentencePiece-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
 
+### 🎨 UI & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-1E293B?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-FFB703?style=for-the-badge&logo=websocket&logoColor=black" />
+</p>
 ---
 
 ## 🧬 Current Focus
