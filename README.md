@@ -30,12 +30,4 @@ I build AI-first SaaS products and ship software for fintech, legal-tech and acc
 - **[Yii2 Inertia](https://github.com/crenspire/yii2-inertia)** - Inertia.js adapter for Yii2: modern SPA frontends on classic Yii2
 - Multi-tenant SaaS boilerplates and production AI agents
 
-## Find me
-
-- Portfolio - [akshayjoshi.dev](https://akshayjoshi.dev)
-- LinkedIn - [linkedin.com/in/akshaypjoshi](https://linkedin.com/in/akshaypjoshi)
-- X / Twitter - [@akshaypjoshi](https://x.com/akshaypjoshi)
-- Company - [crenspire.com](https://crenspire.com)
-- Email - [akshaypjoshi@gmail.com](mailto:akshaypjoshi@gmail.com) / [akshay.joshi@crenspire.com](mailto:akshay.joshi@crenspire.com)
-
 ---
