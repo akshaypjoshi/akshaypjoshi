@@ -4,16 +4,6 @@
 
 I build AI-first SaaS products and ship software for fintech, legal-tech and accounting automation. Hands-on builder, happiest when an idea goes from whiteboard to production fast.
 
-## Stack
-
-**Backend:** Python · Django · FastAPI · Laravel · Yii · Celery
-
-**Frontend:** React · Next.js · Flutter
-
-**Data & AI:** PostgreSQL · pgvector · Redis · AI Integrations
-
-**Infra:** AWS (EC2) · Docker · Linux
-
 ## My Work
 
 - **[Glass UI](https://glass-ui.crenspire.com)** - Glassmorphic component library inspired by Apple's design, built with Next.js, React and a shadcn/ui registry
