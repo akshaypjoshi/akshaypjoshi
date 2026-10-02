@@ -6,11 +6,11 @@ I build AI-first SaaS products and ship software for fintech, legal-tech and acc
 
 ## My Work
 
-- **[Glass UI](https://glass-ui.crenspire.com)** - Glassmorphic component library inspired by Apple's design, built with Next.js, React and a shadcn/ui registry
-- **[Laravel WhatsApp](https://crenspire.github.io/laravel-whatsapp/)** - Send and receive WhatsApp messages in Laravel with Meta's Cloud API
 - **[RantWall.app](https://rantwall.app)** - An anonymous rant wall for the internet
 - **[Slambook.wtf](https://slambook.wtf)** - Make a book. Send the link. Read what your friends actually think of you.
-- **[Alcove – Custom New Tab](https://chromewebstore.google.com/detail/alcove-custom-new-tab/jhbabcfheifkgjgjdbbdklfflbpnhenf)** - A quiet corner of your browser
+- **[Alcove - Custom New Tab](https://chromewebstore.google.com/detail/alcove-custom-new-tab/jhbabcfheifkgjgjdbbdklfflbpnhenf)** - A quiet corner of your browser
+- **[Glass UI](https://glass-ui.crenspire.com)** - Glassmorphic component library inspired by Apple's design, built with Next.js, React and a shadcn/ui registry
+- **[Laravel WhatsApp](https://crenspire.github.io/laravel-whatsapp/)** - Send and receive WhatsApp messages in Laravel with Meta's Cloud API
 - **[XPM](https://github.com/crenspire/xpm)** - Universal package manager CLI in Go: one tool for npm, pip, composer, cargo and go, plus runtime version management
 - **[Django React Boilerplate](https://github.com/crenspire/django-react-boilerplate)** - Production-ready starter pairing a Django backend with a React frontend
 - **[Django Vue Boilerplate](https://github.com/crenspire/django-vue-boilerplate)** - Django backend with a Vue frontend, ready to build on
