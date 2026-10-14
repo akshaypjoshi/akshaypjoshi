@@ -8,7 +8,7 @@ I build AI-first SaaS products and ship software for fintech, legal-tech and acc
 
 - **[RantWall.app](https://rantwall.app)** - An anonymous rant wall for the internet
 - **[Course Studio](https://skills.akshayjoshi.dev/course-studio/)** - Skill to plan and write courses, chapters and notes with interactive isometric Anatomy figures.
-- **[Course Lab](https://skills.akshayjoshi.dev/course-lab/)** - kill for courses that test the learner: Course Studio chapters end in a graded 10-question quiz, and Claude turns results into a diagnosis and a targeted retest.
+- **[Course Lab](https://skills.akshayjoshi.dev/course-lab/)** - Skill for courses that test the learner: Course Studio chapters end in a graded 10-question quiz, and Claude turns results into a diagnosis and a targeted retest.
 - **[Slambook.wtf](https://slambook.wtf)** - Make a book. Send the link. Read what your friends actually think of you.
 - **[Alcove - Custom New Tab](https://chromewebstore.google.com/detail/alcove-custom-new-tab/jhbabcfheifkgjgjdbbdklfflbpnhenf)** - A quiet corner of your browser
 - **[Glass UI](https://glass-ui.crenspire.com)** - Glassmorphic component library inspired by Apple's design, built with Next.js, React and a shadcn/ui registry
